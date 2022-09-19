@@ -1,7 +1,7 @@
-## Dear Githubers
-### Virtual greetings!
+# Dear Githubers
+## ***Virtual greetings!***
 
-<img width="644" alt="poyuinosrockeros" src="https://user-images.githubusercontent.com/113396185/191057073-ea636175-0987-4eac-ba68-f74f26bc08da.png">
+<img width="300" alt="poyuinosrockeros" src="https://user-images.githubusercontent.com/113396185/191057073-ea636175-0987-4eac-ba68-f74f26bc08da.png">
 
 ## ***I’m Dirce***  
   
@@ -27,7 +27,7 @@
 - ❓ Ask me about anything related to biochemistry or molecular biology  
   
 
-- 🧠 Fun fact: Pigeons are navigation experts  
+- 🧠 Interesting fact: pigeons are navigation experts  
   
 
 - 📧dirce@protonmail.com  
@@ -72,12 +72,10 @@
 </td></tr></table>  
 
 <br/>  
-
   
 
 <br/>  
 
-  
 
 <br/>  
 
