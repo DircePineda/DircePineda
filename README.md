@@ -18,16 +18,16 @@
 - 🦾 I’m interested in bionics prosthetics & 3D-printed organs  
   
 
--  I’m currently learning Python 🐍  
+- :snake: I’m currently learning Python   
   
 
-- ...and getting started on GitHub   
+- :space_invader: ...and getting started on GitHub   
   
 
-- ❓ Ask me about anything related to biochemistry or molecular biology  
+- :question: Ask me about anything related to biochemistry or molecular biology  
   
 
-- 🧠 Interesting fact: pigeons are navigation experts  
+- :dove: Interesting fact: pigeons are navigation experts  
   
 
 - 📧dirce@protonmail.com  
