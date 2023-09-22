@@ -15,7 +15,7 @@
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🦾 I am interested in biophysics, spectroscopy, bionics and 3D-printed organs  
+- 🦾 I am interested in biophysics, spectroscopy, bionics and 3D-printed organs 
   
 
 - :snake: currently learning Python   
@@ -24,7 +24,7 @@
 - :space_invader: ...and getting started on GitHub   
   
 
-- :question: Ask me about anything related to biochemistry or molecular biology  
+- Ask me about anything related to biochemistry or molecular biology :question: 
   
 
 - :dove: Interesting fact: pigeons are navigation experts  
