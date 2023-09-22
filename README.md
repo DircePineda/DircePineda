@@ -27,7 +27,7 @@
 - Ask me about anything related to biochemistry or molecular biology :question: :question: :question: 
   
 
-- :dove: Interesting fact: pigeons are navigation experts :blossom:
+- :dove: Interesting fact: pigeons are navigation experts :airplane:
   
 
 - 📧dirce@protonmail.com  
