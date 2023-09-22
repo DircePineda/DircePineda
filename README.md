@@ -15,7 +15,7 @@
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🦾 I am interested in biophysics, spectroscopy, bionics and 3D-printed organs 
+- 🦾 I am interested in biophysics, spectroscopy, bionics and 3D-printed organs :mechanical_leg:
   
 
 - :snake: currently learning Python   
