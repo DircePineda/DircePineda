@@ -1,4 +1,4 @@
-# Dear Githubers,
+# Dear Githubers
 ## ***Virtual greetings!***
 
 <img width="300" alt="poyuinosrockeros" src="https://user-images.githubusercontent.com/113396185/191057073-ea636175-0987-4eac-ba68-f74f26bc08da.png">
