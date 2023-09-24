@@ -15,13 +15,13 @@
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- :mechanical_arm: I am interested in biophysics, spectroscopy, bionics and 3D-printed organs :mechanical_leg:
+- :mechanical_arm: I am interested in biophysics, spectroscopy, bionics, and 3D-printed organs :mechanical_leg:
   
 
 - :snake: currently learning Python   
   
 
-- :space_invader: ...and getting started on GitHub   
+- ...and getting started on GitHub :space_invader:  
   
 
 - Ask me about anything related to biochemistry or molecular biology :question: :question: :question: 
