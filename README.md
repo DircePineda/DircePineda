@@ -42,7 +42,8 @@
 <a href="https://grafana.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="50" /></a>  
 </div>  
 <br/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgX5NWhlheBcyuOaOPJ6V8OhAst1Of9Ao1MO8CWiOmlYk35xMyJbj-cCqSp3s2Y1pK6ow&usqp=CAU" align="center" style="width: 40%" /><div align="center">
+
+<div align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgX5NWhlheBcyuOaOPJ6V8OhAst1Of9Ao1MO8CWiOmlYk35xMyJbj-cCqSp3s2Y1pK6ow&usqp=CAU" align="center" style="width: 40%" />
 </div>  
 <br/>  
 
