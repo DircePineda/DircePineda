@@ -61,11 +61,10 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgX5NWhlheBcyuOaOPJ6V8OhAst1Of9Ao1MO8CWiOmlYk35xMyJbj-cCqSp3s2Y1pK6ow&usqp=CAU" align="center" style="width: 40%" />
 <div>
 
- 
 <br/>   
 
-<div align="center">
-## Github Stats  
+## Github Stats
+<div align="center"> 
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=DircePineda&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
@@ -73,15 +72,12 @@
 </td><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DircePineda&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
 </td></tr></table>  
-
 </div>
 
 <br/> 
 
 </div> 
-
 </td></tr></table> 
 
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
