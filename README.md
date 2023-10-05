@@ -35,12 +35,12 @@
 <a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" /></a>  
 <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
 <a href="https://grafana.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="50" /></a>  
-
-<div align="center">
+</div>  
+<br/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgX5NWhlheBcyuOaOPJ6V8OhAst1Of9Ao1MO8CWiOmlYk35xMyJbj-cCqSp3s2Y1pK6ow&usqp=CAU" align="center" style="width: 40%" />
-
 </div>  
 <br/>  
+
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 <img src="https://github-readme-stats.vercel.app/api?username=DircePineda&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
