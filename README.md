@@ -19,7 +19,7 @@
   
 - Ask me about anything related to biochemistry or molecular biology :question: :question: :question: 
   
-- :🕊️: Interesting fact: pigeons are navigation experts :airplane:
+- 🕊️ Interesting fact: pigeons are navigation experts :airplane:
   
 - 📧dirce@protonmail.com  
 
