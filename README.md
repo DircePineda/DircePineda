@@ -1,10 +1,6 @@
 # Physician Scientist | Computational Biology | Biomedical AI
 
-Scientific programming and data-driven approaches for precision health.
-
-I develop computational approaches for biomedical research, combining programming, data analysis, and biological knowledge.
-
-My interests include scientific computing, machine learning, spectroscopy data analysis, and computational methods for precision health.
+Scientific programming and data-driven approaches for precision health. Developing computational approaches for biomedical research, combining programming, data analysis, and biological knowledge.
 
 ---
 
