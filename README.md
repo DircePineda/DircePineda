@@ -1,6 +1,8 @@
 # Physician Scientist | Computational Biology | Biomedical AI
 
-Scientific programming and data-driven approaches for precision health. Developing computational approaches for biomedical research, combining programming, data analysis, and biological knowledge.
+Scientific programming and data-driven approaches for precision health.
+
+I develop computational methods for biomedical research, combining programming, data analysis, and biological knowledge.
 
 ---
 
@@ -55,7 +57,4 @@ Scientific programming and data-driven approaches for precision health. Developi
 ## Background
 
 Biomedical researcher with experience in molecular biology, cancer research, clinical research, and biomedical technologies.
-
-Currently developing computational approaches for biological and healthcare applications.
-
----
+Currently applying computational methods, machine learning, and data analysis to biomedical research and precision health.
