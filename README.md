@@ -63,10 +63,3 @@ Biomedical researcher with experience in molecular biology, cancer research, cli
 Currently developing computational approaches for biological and healthcare applications.
 
 ---
-
-## Contact
-
-- GitHub: [DircePineda](https://github.com/DircePineda)
-- LinkedIn: [Dirce Pineda](https://www.linkedin.com/in/dircepineda)
-- ORCID: [0000-0002-6274-4879](https://orcid.org/0000-0002-6274-4879)
-- Kaggle: [dircepineda](https://kaggle.com/dircepineda)
