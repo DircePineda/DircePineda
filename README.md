@@ -1,61 +1,72 @@
-# Dear Githubers
+# Physician Scientist | Computational Biology | Biomedical AI
 
-## ***Virtual greetings!***
-<img width="300" alt="poyuinosrockeros" src="https://user-images.githubusercontent.com/113396185/191057073-ea636175-0987-4eac-ba68-f74f26bc08da.png">
+Scientific programming and data-driven approaches for precision health.
 
-## ***I am Dirce***  
-  
-  
-  
-<br/>  
+I develop computational approaches for biomedical research, combining programming, data analysis, and biological knowledge.
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-- :🦾: I am interested in biophysics, spectroscopy, bionics, and 3D-printed organs :mechanical_leg:
-  
-- :snake: currently learning Python   
-  
-- ...and getting started on GitHub :space_invader:  
-  
-- Ask me about anything related to biochemistry or molecular biology :question: :question: :question: 
-  
-- 🕊️ Interesting fact: pigeons are navigation experts :airplane:
-  
-- 📧dirce@protonmail.com  
+My interests include scientific computing, machine learning, spectroscopy data analysis, and computational methods for precision health.
 
-</td><td valign="top" width="50%">
-<div align="center">
-<img src="https://i2.wp.com/clipset.com/wp-content/uploads/2012/06/nyan-cat-gif.gif?ssl=1" align="center" style="width: 100%" />
-</div>  
-</td></tr></table>  
-<br/>  
+---
 
-## Languages and Tools  
-<div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/indesign.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="Adobe InDesign" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
-<a href="https://grafana.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/grafana.png" alt="Grafana" height="50" /></a>  
-</div>  
-<br/>
+## Technical Skills
 
-<div align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgX5NWhlheBcyuOaOPJ6V8OhAst1Of9Ao1MO8CWiOmlYk35xMyJbj-cCqSp3s2Y1pK6ow&usqp=CAU" align="center" style="width: 40%" />
-</div>  
-<br/>  
+### Programming Languages
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=DircePineda&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-</td><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DircePineda&hide_border=true&layout=compact" align="left" style="width: 100%" />
-</td></tr></table>  
-</div>
-<br/> 
+- Python
+- MATLAB
 
-</td></tr></table> 
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+### Data Science & Machine Learning
 
+- Data preprocessing and analysis
+- Statistical analysis
+- Machine learning workflows
+- Scientific visualization
+
+### Computational Biology
+
+- Bioinformatics workflows
+- Molecular biology data analysis
+- Biomedical signal and spectral analysis
+
+### Scientific Tools
+
+- Git & GitHub
+- Linux
+- Jupyter Notebooks
+- COMSOL Multiphysics
+
+---
+
+## Computational Work
+
+- Biomedical data analysis workflows
+- Scientific computing applications
+- Spectroscopy and signal processing
+- Machine learning approaches for biomedical research
+
+---
+
+## Research Interests
+
+- Biomedical data science
+- Raman spectroscopy and spectral analysis
+- Machine learning applications in healthcare
+- Computational biology
+- Precision health technologies
+
+---
+
+## Background
+
+Biomedical researcher with experience in molecular biology, cancer research, clinical research, and biomedical technologies.
+
+Currently developing computational approaches for biological and healthcare applications.
+
+---
+
+## Contact
+
+- GitHub: [DircePineda](https://github.com/DircePineda)
+- LinkedIn: [Dirce Pineda](https://www.linkedin.com/in/dircepineda)
+- ORCID: [0000-0002-6274-4879](https://orcid.org/0000-0002-6274-4879)
+- Kaggle: [dircepineda](https://kaggle.com/dircepineda)
