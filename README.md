@@ -8,17 +8,15 @@ Scientific programming and data-driven approaches for precision health. Developi
 - MATLAB
 
 ### Data Science & Machine Learning
-- Data preprocessing and analysis
-- Statistical analysis
-- Machine learning workflows
-- Scientific visualization
+- Data preprocessing and data analysis
+- Statistics
+- Machine learning and Deep Learning workflows
 
 ### Scientific Tools
 - Git & GitHub
 - Linux
 - Jupyter Notebooks
 - COMSOL Multiphysics
-
 ---
 
 ## Computational Work
