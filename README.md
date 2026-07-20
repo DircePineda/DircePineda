@@ -1,15 +1,13 @@
-# Physician Scientist | Computational Biology | Biomedical AI
+## Physician Scientist | Computational Biology | Biomedical AI
 Scientific programming and data-driven approaches for precision health. Developing computational methods for biomedical research, combining programming, data analysis, and biological knowledge.
 
 ---
 
 ### Programming Languages
-
 - Python
 - MATLAB
 
 ### Data Science & Machine Learning
-
 - Data preprocessing and analysis
 - Statistical analysis
 - Machine learning workflows
