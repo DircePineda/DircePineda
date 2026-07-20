@@ -4,8 +4,6 @@ Scientific programming and data-driven approaches for precision health. Developi
 
 ---
 
-## Technical Skills
-
 ### Programming Languages
 
 - Python
