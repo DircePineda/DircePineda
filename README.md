@@ -52,5 +52,5 @@ Scientific programming and data-driven approaches for precision health. Developi
 
 ## Background
 
-Biomedical researcher with experience in molecular biology, cancer research, clinical research, and biomedical technologies.
+Experience in biochemistry and molecular biology, cancer research, clinical trials, and biomedical technologies.
 Currently applying computational methods, machine learning, and data analysis to biomedical research and precision health.
