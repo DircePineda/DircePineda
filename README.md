@@ -22,7 +22,6 @@ Scientific programming and data-driven approaches for precision health. Developi
 ## Computational Work
 
 - Biomedical data analysis workflows
-- Scientific computing applications
 - Spectroscopy and imaging signal processing 
 - Machine learning approaches for biomedical research
 
