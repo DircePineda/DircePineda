@@ -13,14 +13,7 @@ Scientific programming and data-driven approaches for precision health. Developi
 - Machine learning workflows
 - Scientific visualization
 
-### Computational Biology
-
-- Bioinformatics workflows
-- Molecular biology data analysis
-- Biomedical signal and spectral analysis
-
 ### Scientific Tools
-
 - Git & GitHub
 - Linux
 - Jupyter Notebooks
