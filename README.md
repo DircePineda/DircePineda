@@ -23,7 +23,7 @@ Scientific programming and data-driven approaches for precision health. Developi
 
 - Biomedical data analysis workflows
 - Scientific computing applications
-- Spectroscopy and signal processing
+- Spectroscopy and imaging signal processing 
 - Machine learning approaches for biomedical research
 
 ---
